@@ -14,6 +14,7 @@ The MNIST database of handwritten digits, available from this page, has a traini
 **Neural Network:**
 
 A neural network is a series of algorithms that endeavours to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature.
+
 **JAX:**
 
 JAX is an automatic differentiation (AD) toolbox developed by a group of people at Google Brain and the open-source community. It aims to bring differentiable programming in NumPy-style onto TPUs. On the highest level JAX combines the previous projects XLA & Autograd to accelerate linear algebra-based projects.
@@ -69,6 +70,7 @@ The loss v/s iteration plots were drawn for 10 epochs and with the below mention
 The author had tested various neural network architectures on the mnist dataset with 80:20 train and test split ration. Almost, all the architectures are working similarly with a training accuracy of 79% and testing accuracy of 19.4% approximately. In the future, the author will implement the pre-trained convolutional neural network architectures like efficientnet, teacher-student model for improving the performance.
 
 **References**
+
 [1].https://roberttlange.github.io/posts/2020/03/blog-post-10/
 
 [2].https://www.youtube.com/watch?v=6_PqUPxRmjY
