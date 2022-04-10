@@ -67,6 +67,7 @@ The loss v/s iteration plots were drawn for 10 epochs and with the below mention
 ![1000 batch 512 512](https://user-images.githubusercontent.com/53971916/162627771-cd3bb450-6b28-41b7-94ab-fb1e32082604.png)
 
 **4.	Conclusion and Future Scope**
+
 The author had tested various neural network architectures on the mnist dataset with 80:20 train and test split ration. Almost, all the architectures are working similarly with a training accuracy of 79% and testing accuracy of 19.4% approximately. In the future, the author will implement the pre-trained convolutional neural network architectures like efficientnet, teacher-student model for improving the performance.
 
 **References**
