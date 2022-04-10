@@ -70,7 +70,11 @@ The author had tested various neural network architectures on the mnist dataset 
 
 **References**
 [1].https://roberttlange.github.io/posts/2020/03/blog-post-10/
+
 [2].https://www.youtube.com/watch?v=6_PqUPxRmjY
+
 [3].https://pytorch.org/vision/stable/datasets.html
+
 [4].http://yann.lecun.com/exdb/mnist/
+
 [5].https://jax.readthedocs.io/en/latest/notebooks/quickstart.html
